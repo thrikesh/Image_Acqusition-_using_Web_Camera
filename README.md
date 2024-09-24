@@ -81,7 +81,9 @@ import cv2
 cap = cv2.VideoCapture (0)
 while True:
     ret, frame = cap.read()
+    rotated_frame=cv2.rotate(frame,cv2.ROTATE_90_CLOCKWISE)
     cv2.imshow('Rotated Video', rotated_frame)
+    cv2.imwrite(f"frame_{frame_number}.jpg", frame)
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 cap.release()
