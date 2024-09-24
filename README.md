@@ -89,25 +89,28 @@ cv2.destroyAllWindows()
 ```
 ## Output
 ### i) Write the frame as JPG image
-![Screenshot 2024-03-01 123341](https://github.com/divakar618/Image_Acqusition-_using_Web_Camera/assets/121932143/d25f3d90-9e66-48cd-8d16-ae94f1eac86f)
+![image](https://github.com/user-attachments/assets/bfebcec1-8b0b-437f-b0e2-f3df0fc60dd9)
+
 
 </br>
 </br>
 
 ### ii) Display the video
-![Screenshot 2024-03-01 123359](https://github.com/divakar618/Image_Acqusition-_using_Web_Camera/assets/121932143/372274ff-0f2a-4f36-8ed2-953d252461a0)
+![image](https://github.com/user-attachments/assets/dc9bcd9e-10cb-4aee-a8b6-7c5960025f2f)
+
 
 </br>
 </br>
 
 ### iii) Display the video by resizing the window
-![Screenshot 2024-03-01 123415](https://github.com/divakar618/Image_Acqusition-_using_Web_Camera/assets/121932143/0b1665b5-7a90-42a7-89dc-a7b12a31a337)
+![image](https://github.com/user-attachments/assets/60ca1254-2e15-451b-b00c-37eb1de06399)
+
 
 </br>
 </br>
 
-### iv) Rotate and display the video
-![Screenshot 2024-03-01 123426](https://github.com/divakar618/Image_Acqusition-_using_Web_Camera/assets/121932143/af88a160-162a-4a26-839f-a790fe8c146d)
+### iv) Rotate and display the video![image](https://github.com/user-attachments/assets/3fbda67f-3dbb-4468-a53c-91d785a3b359)
+![image](https://github.com/user-attachments/assets/c72521ed-08fb-45b6-a8b7-e3f20a331467)
 
 </br>
 </br>
